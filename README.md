@@ -21,3 +21,18 @@
   - Készíts egy PLSQL package bodyt - NEPTUNKÓD_package_pkg
   - Adj hozzá egy Proceduret ami töröl két dátum közti logokat
   - Adj hozzá egy Proceduret ami kilistáz két dátum közti logokat
+
+3. Óra anyaga:
+  - Bevezetés EBS - Oracle E-Business Suite
+  - Bejelentkezés http://ebz.ni-esen.com:8000
+  - Jelszóváltoztatás
+  - Sysadmin form letöltés
+  - Responsibility adás saját magunknak: Application Developer és Manufacturing, Vision Operations (USA)
+  - Készíts egy új copy táblát a wip_discrete_jobs-ról: NEPTUNKÓD_wip_discrete_jobs
+  - Készíts egy package headert: NEPTUNKÓD_jobs_pkg
+  - Adj hozzá egy log_msg és update_job_qty függvényt
+  - Készíts egy package bodyt ugyanazzal a névvel
+  - Írd meg a log_msg proceduret, figyelj arra, hogy honnan jön a call, cp vagy anonym block
+  - Készítsd el az update_job_qty proceduret is
+  - Futtasd az update_job_qty
+  - Ellenőrizd, hogy volt e table update
