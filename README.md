@@ -1,4 +1,4 @@
-# ESEN
+# ESEN - PLSQL - Kokas István, Nyeste Szilveszter, Nyakoné Hegedűs-Lukács Mónika
 
 1. Óra Anyaga (SQL bevezetés):
   - Bevezetés - NI 
@@ -36,3 +36,24 @@
   - Készítsd el az update_job_qty proceduret is
   - Futtasd az update_job_qty
   - Ellenőrizd, hogy volt e table update
+
+4. Óra anyaga:
+  - Bevezetés - Szoftvertesztelés
+  - Updateljük a packagünkben szereplő update_job_qty függvényt
+  - Addjunk hozzá két új változót: p_out_errbuff, p_out_retcode
+  - Fordítsuk be a package headert és a bodyt is
+
+4.1 Konkurans program:
+  - Kell egy Program Executable
+  - Kellenek paraméterek
+  - Konkuren programhoz hozzá kell rendelni a Progrma Executable-t
+  - Request grouphoz hozzá kell adni a programunkat
+  - Futtathatjuk a requestet
+
+Képekben:
+![change_responsibility](https://github.com/user-attachments/assets/fbcd1ad8-425f-42df-89a8-cb54cc932fb8)
+![create_program_executable](https://github.com/user-attachments/assets/e6bf82de-4571-402e-84f6-653082c0522f)
+![create_concurrent_program](https://github.com/user-attachments/assets/aae48bed-2e2e-465e-bb1f-9f559e2caee3)
+![setting_up_the_parameters](https://github.com/user-attachments/assets/09594437-b9c3-4395-863f-062b207f0648)
+![assigning_to_request_group](https://github.com/user-attachments/assets/cb0ff22b-106b-41ac-897e-41832e1dc244)
+![run_the_cp](https://github.com/user-attachments/assets/625ccc5c-6c20-4181-a218-a9ac846fcc3d)
