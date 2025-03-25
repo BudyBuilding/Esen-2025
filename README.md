@@ -1,5 +1,7 @@
 # ESEN - PLSQL - Kokas István, Nyeste Szilveszter, Nyakoné Hegedűs-Lukács Mónika
 
+Szabad intern pozíciónk: https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015684
+
 Szofverfejlesztés nagyvállalati környezetben – 2025 1. Zárthelyi dolgozat
 
 Ebz url: http://ebz.ni-esen.com:8000
