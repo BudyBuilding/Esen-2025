@@ -1,4 +1,6 @@
 # ESEN - PLSQL - Kokas István, Nyeste Szilveszter, Nyakoné Hegedűs-Lukács Mónika
+1.ZH Eredmények:
+[https://docs.google.com/spreadsheets/d/1Ig6CAHx6Llr7EmHKc6uBqRYwLMfrFLwzbWrVHQdzrRM/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1Ig6CAHx6Llr7EmHKc6uBqRYwLMfrFLwzbWrVHQdzrRM/edit?usp=sharing)
 
 Szabad intern pozíciónk: https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015684
 
